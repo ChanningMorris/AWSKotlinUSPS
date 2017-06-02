@@ -2,10 +2,6 @@ package controller
 
 import java.net.URLConnection
 import java.net.URL
-import java.net.Proxy
-import java.net.Proxy.Type
-import java.net.InetSocketAddress
-import java.io.InputStream
 import model.CityStateLookupResponse
 import model.getRequestUri
 import controller.parseUSPSResponse
