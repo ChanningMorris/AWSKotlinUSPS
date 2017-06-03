@@ -1,6 +1,6 @@
 package model
 
-import controller.callUSPS
+import model.callUSPS
 import java.net.URLEncoder
 import java.io.ByteArrayInputStream
 import java.io.InputStream

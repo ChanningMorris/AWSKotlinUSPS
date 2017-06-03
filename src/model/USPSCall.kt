@@ -1,4 +1,4 @@
-package controller
+package model
 
 import java.net.URLConnection
 import java.net.URL

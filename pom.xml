@@ -4,7 +4,7 @@
   <artifactId>USPS</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<kotlin.version>1.1.1</kotlin.version>
+		<kotlin.version>1.1.2-4</kotlin.version>
  		<source.dir>src</source.dir>
 	</properties>
 	<build>

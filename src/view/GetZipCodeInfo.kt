@@ -1,7 +1,7 @@
 package view
 
 import model.CityStateLookupResponse
-import controller.callUSPS
+import model.callUSPS
 import com.amazonaws.services.lambda.runtime.Context
 import com.amazonaws.services.lambda.runtime.LambdaLogger
 
